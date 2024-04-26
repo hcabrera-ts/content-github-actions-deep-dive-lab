@@ -1,4 +1,4 @@
-name: Deploy feature branches to nonproduction branches
+name: Deploy feature branches to nonproduction branches v2
 
 on:
   push:
